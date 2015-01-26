@@ -1,6 +1,6 @@
 # FinClosers
 
-<a href="https://assembly.com/finclosers/bounties?utm_campaign=assemblage&utm_source=finclosers&medium=repo_badge"><img src="https://asm-badger.herokuapp.com/finclosers/badges/tasks.svg" height="24px" alt="Open Tasks" /></a>
+<a href="https://assembly.com/finclosers/bounties?utm_campaign=assemblage&utm_source=finclosers&utm_medium=repo_badge"><img src="https://asm-badger.herokuapp.com/finclosers/badges/tasks.svg" height="24px" alt="Open Tasks" /></a>
 
 ## Finance and business analyst as a service
 
